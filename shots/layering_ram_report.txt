@@ -1,0 +1,272 @@
+== lavender_maxsplat
+frame 1520
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 173,112
+  sprite  2 object    img 08ed8dac subprio 0x8c oam prio 2 pos 136,80
+  sprite  3 object    img 08ed8dac subprio 0x8c oam prio 2 pos 232,80
+  sprite  4 object    img 08ed8dac subprio 0x94 oam prio 2 pos 88,16
+  sprite  5 object    img 08ed8dac subprio 0x92 oam prio 2 pos 248,32
+  sprite  6 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1600
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 120,112
+  sprite  1 object    img 083a0c40 subprio 0x76 oam prio 2 pos -24,0
+  sprite  2 object    img 08ed8dac subprio 0x8c oam prio 2 pos 136,80
+  sprite  3 object    img 08ed8dac subprio 0x8c oam prio 2 pos 232,80
+  sprite  4 object    img 08ed8dac subprio 0x94 oam prio 2 pos 88,16
+  sprite  5 object    img 08ed8dac subprio 0x92 oam prio 2 pos 248,32
+  sprite  6 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1700
+  sprite  0 object    img 083a00a0 subprio 0x8a oam prio 2 pos 152,135
+  sprite  1 object    img 08ed8dac subprio 0x78 oam prio 2 pos 88,16
+  sprite  2 object    img 08ed8dac subprio 0x90 oam prio 2 pos 136,80
+  sprite  3 object    img 08ed8dac subprio 0x90 oam prio 2 pos 232,80
+  sprite  5 object    img 08ed8dac subprio 0x76 oam prio 2 pos 248,32
+  sprite  6 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+exit 0
+== celadon_maxsplat
+frame 1520
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 173,112
+  sprite  2 object    img 083a0858 subprio 0x80 oam prio 2 pos 104,176
+  sprite  3 object    img 083a0a20 subprio 0x80 oam prio 2 pos 232,176
+  sprite  4 object    img 083a0d30 subprio 0x8a oam prio 2 pos 216,96
+  sprite  5 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite  7 object    img 083a0c40 subprio 0x8e oam prio 2 pos 344,64
+  sprite 60 object    img 083a0a20 subprio 0x98 oam prio 3 pos 232,206
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1600
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 120,112
+  sprite  1 object    img 083a16c0 subprio 0x82 oam prio 2 pos 28,160
+  sprite  2 object    img 083a0858 subprio 0x7e oam prio 2 pos 97,192
+  sprite  3 object    img 083a0a20 subprio 0x80 oam prio 2 pos 232,176
+  sprite  4 object    img 083a0d30 subprio 0x8a oam prio 2 pos 216,96
+  sprite  5 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 60 object    img 083a0a20 subprio 0x98 oam prio 3 pos 232,206
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1700
+  sprite  0 object    img 083a00a0 subprio 0x8a oam prio 2 pos 152,135
+  sprite  1 object    img 083a16c0 subprio 0x7e oam prio 2 pos 48,224
+  sprite  2 object    img 083a0858 subprio 0x82 oam prio 2 pos 88,192
+  sprite  3 object    img 083a0a20 subprio 0x84 oam prio 2 pos 232,176
+  sprite  4 object    img 083a0d30 subprio 0x8e oam prio 2 pos 216,96
+  sprite  5 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 60 object    img 083a0a20 subprio 0x98 oam prio 3 pos 232,206
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+exit 0
+== fuchsia_maxsplat
+frame 1520
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 173,112
+  sprite  1 object    img 083a04c0 subprio 0x94 oam prio 2 pos 72,16
+  sprite  4 object    img 083a1510 subprio 0x92 oam prio 2 pos 280,40
+  sprite  5 object    img 083a1510 subprio 0x8c oam prio 2 pos 120,88
+  sprite  6 object    img 08ed8dac subprio 0x76 oam prio 2 pos 280,0
+  sprite  7 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite  9 object    img 083a04c0 subprio 0x90 oam prio 2 pos 312,48
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1600
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 120,112
+  sprite  1 object    img 083a04c0 subprio 0x76 oam prio 2 pos 72,0
+  sprite  2 object    img 083a0508 subprio 0x76 oam prio 2 pos 24,264
+  sprite  3 object    img 083a1510 subprio 0x8c oam prio 2 pos 24,88
+  sprite  4 object    img 083a1510 subprio 0x92 oam prio 2 pos 280,40
+  sprite  5 object    img 083a1510 subprio 0x8c oam prio 2 pos 120,88
+  sprite  6 object    img 08ed8dac subprio 0x76 oam prio 2 pos 280,0
+  sprite  7 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1700
+  sprite  0 object    img 083a00a0 subprio 0x8a oam prio 2 pos 152,119
+  sprite  1 object    img 083a04c0 subprio 0x78 oam prio 2 pos 72,0
+  sprite  2 object    img 083a0508 subprio 0x78 oam prio 2 pos 56,264
+  sprite  3 object    img 083a1510 subprio 0x8e oam prio 2 pos 24,88
+  sprite  4 object    img 083a1510 subprio 0x94 oam prio 2 pos 280,40
+  sprite  5 object    img 083a1510 subprio 0x8e oam prio 2 pos 120,88
+  sprite  6 object    img 083a04c0 subprio 0x92 oam prio 2 pos 312,48
+  sprite  7 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite  9 object    img 08ed8dac subprio 0x78 oam prio 2 pos 280,0
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+exit 0
+== cerulean_siteA
+frame 1520
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 173,112
+  sprite  2 object    img 083a20e0 subprio 0x76 oam prio 2 pos 168,264
+  sprite  3 object    img 083a05e8 subprio 0x76 oam prio 2 pos 184,256
+  sprite  4 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite  6 object    img 083a0638 subprio 0x88 oam prio 2 pos 296,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1600
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 120,112
+  sprite  1 object    img 083a0508 subprio 0x8a oam prio 2 pos 8,104
+  sprite  2 object    img 083a20e0 subprio 0x76 oam prio 2 pos 168,264
+  sprite  3 object    img 083a05e8 subprio 0x76 oam prio 2 pos 184,256
+  sprite  4 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1700
+  sprite  0 object    img 083a00a0 subprio 0x8a oam prio 2 pos 152,135
+  sprite  1 object    img 083a0508 subprio 0x90 oam prio 2 pos 8,88
+  sprite  2 object    img 083a20e0 subprio 0x7a oam prio 2 pos 168,264
+  sprite  3 object    img 083a05e8 subprio 0x7a oam prio 2 pos 184,256
+  sprite  4 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite  6 object    img 083a1510 subprio 0x78 oam prio 2 pos 168,280
+  sprite  7 object    img 083a0638 subprio 0x8c oam prio 2 pos 296,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+exit 0
+== vermilion_siteB
+frame 1520
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 173,112
+  sprite  2 object    img 08ed8dac subprio 0x7c oam prio 2 pos 184,208
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1600
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 120,112
+  sprite  1 object    img 083a0688 subprio 0x94 oam prio 2 pos 8,16
+  sprite  2 object    img 08ed8dac subprio 0x7c oam prio 2 pos 184,208
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1700
+  sprite  0 object    img 083a00a0 subprio 0x8a oam prio 2 pos 152,119
+  sprite  1 object    img 083a0688 subprio 0x76 oam prio 2 pos 24,16
+  sprite  2 object    img 08ed8dac subprio 0x7e oam prio 2 pos 184,208
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+exit 0
+== viridian_arrest
+frame 1520
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 173,112
+  sprite  1 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite  3 object    img 083a0638 subprio 0x94 oam prio 2 pos 296,16
+  sprite  4 object    img 08ed8dac subprio 0x8a oam prio 2 pos 344,96
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1600
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 120,112
+  sprite  1 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1700
+  sprite  0 object    img 083a00a0 subprio 0x8a oam prio 2 pos 152,135
+  sprite  1 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+exit 0
+== sniper
+frame 1520
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 173,112
+  sprite  1 object    img 08ed8dac subprio 0x8e oam prio 2 pos 264,64
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1600
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 120,112
+  sprite  1 object    img 08ed8dac subprio 0x8e oam prio 2 pos 264,64
+  sprite  2 object    img 08ed8dac subprio 0x90 oam prio 2 pos -8,48
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1700
+  sprite  0 object    img 083a00a0 subprio 0x8a oam prio 2 pos 152,135
+  sprite  1 object    img 08ed8dac subprio 0x92 oam prio 2 pos 264,64
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 152,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+exit 0
+== pallet_feather
+frame 1520
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 152,112
+  sprite  1 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite  2 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,144
+  sprite  4 object    img 08ed8dac subprio 0x76 oam prio 2 pos 8,0
+  sprite  6 object    img 08ed8dac subprio 0x7e oam prio 2 pos 312,192
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1600
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 120,112
+  sprite  1 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite  2 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,144
+  sprite  4 object    img 08ed8dac subprio 0x76 oam prio 2 pos 8,0
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1700
+  sprite  0 object    img 083a00a0 subprio 0x8a oam prio 2 pos 152,135
+  sprite  1 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite  2 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,144
+  sprite  4 object    img 08ed8dac subprio 0x82 oam prio 2 pos 312,192
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+exit 0
+== viridian_feather
+frame 1520
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 173,112
+  sprite  1 object    img 083a0638 subprio 0x7c oam prio 2 pos 280,220
+  sprite  2 object    img 083a08a8 subprio 0x94 oam prio 2 pos 200,16
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite  4 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  5 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,144
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1600
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 120,112
+  sprite  1 object    img 083a0638 subprio 0x7c oam prio 2 pos 280,213
+  sprite  2 object    img 083a08a8 subprio 0x94 oam prio 2 pos 200,16
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite  4 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  5 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,144
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1700
+  sprite  0 object    img 083a00a0 subprio 0x8a oam prio 2 pos 152,135
+  sprite  1 object    img 083a0638 subprio 0x7e oam prio 2 pos 280,224
+  sprite  2 object    img 083a08a8 subprio 0x78 oam prio 2 pos 200,16
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite  4 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  5 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,144
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+exit 0
+== cerulean_feather
+frame 1520
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 152,112
+  sprite  1 object    img 083a04c0 subprio 0x8c oam prio 2 pos 264,80
+  sprite  2 object    img 083a0508 subprio 0x80 oam prio 2 pos 40,184
+  sprite  3 object    img 083a0c40 subprio 0x88 oam prio 2 pos 168,112
+  sprite  4 object    img 083a04c0 subprio 0x88 oam prio 2 pos 184,112
+  sprite  5 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  6 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1600
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 88,112
+  sprite  2 object    img 083a0508 subprio 0x80 oam prio 2 pos 40,184
+  sprite  3 object    img 083a0c40 subprio 0x88 oam prio 2 pos 168,112
+  sprite  4 object    img 083a04c0 subprio 0x88 oam prio 2 pos 184,112
+  sprite  5 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  6 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1700
+  sprite  0 object    img 083a00a0 subprio 0x8a oam prio 2 pos 120,103
+  sprite  1 object    img 083a04c0 subprio 0x8c oam prio 2 pos 264,80
+  sprite  2 object    img 083a0508 subprio 0x80 oam prio 2 pos 40,184
+  sprite  3 object    img 083a0c40 subprio 0x88 oam prio 2 pos 168,112
+  sprite  4 object    img 083a04c0 subprio 0x88 oam prio 2 pos 184,112
+  sprite  5 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  6 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+exit 0
+== vermilion_feather
+frame 1520
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 173,112
+  sprite  1 object    img 083a0688 subprio 0x76 oam prio 2 pos 136,0
+  sprite  2 object    img 083a1510 subprio 0x80 oam prio 2 pos 56,184
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite  4 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  5 object    img 083a04c0 subprio 0x84 oam prio 2 pos 136,144
+  sprite  7 object    img 08ed8dac subprio 0x7e oam prio 2 pos 328,192
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1600
+  sprite  0 object    img 083a00a0 subprio 0x88 oam prio 2 pos 120,112
+  sprite  1 object    img 083a0688 subprio 0x76 oam prio 2 pos 152,0
+  sprite  2 object    img 083a1510 subprio 0x80 oam prio 2 pos 56,184
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite  4 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  5 object    img 083a04c0 subprio 0x84 oam prio 2 pos 136,144
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+frame 1700
+  sprite  0 object    img 083a00a0 subprio 0x8a oam prio 2 pos 120,135
+  sprite  2 object    img 083a1510 subprio 0x84 oam prio 2 pos 56,184
+  sprite  3 splatter  img 08f1e6a0 subprio 0xff oam prio 2 pos 136,112
+  sprite  4 feather   img 08eb90d4 subprio 0xff oam prio 2 pos 152,120
+  sprite  5 object    img 083a04c0 subprio 0x88 oam prio 2 pos 136,144
+  sprite  7 object    img 083a0fa8 subprio 0x78 oam prio 2 pos 232,272
+  sprite 60 object    img 083a56b0 subprio 0x95 oam prio 2 pos 120,152
+  sprite 61 object    img 083a5584 subprio 0x52 oam prio 1 pos 0,0
+exit 0

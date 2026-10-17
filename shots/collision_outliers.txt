@@ -1,0 +1,38 @@
+(3, 0) Pallet: 0 outlier tiles
+(3, 1) Viridian: 1 outlier tiles
+   (9, 4, 'blocked', 8, [270, 3])
+(3, 2) Pewter: 0 outlier tiles
+(3, 3) Cerulean: 2 outlier tiles
+   (42, 11, 'blocked', 14, [30, 3])
+   (43, 11, 'blocked', 15, [30, 3])
+(3, 4) Lavender: 0 outlier tiles
+(3, 5) Vermilion: 0 outlier tiles
+(3, 6) Celadon: 0 outlier tiles
+(3, 7) Fuchsia: 3 outlier tiles
+   (26, 4, 'walkable', 726, [3, 33])
+   (26, 17, 'blocked', 8, [378, 6])
+   (26, 18, 'blocked', 8, [378, 6])
+(3, 8) Cinnabar?: 0 outlier tiles
+(3, 10) (3,10): 0 outlier tiles
+(3, 18) (3,18): 0 outlier tiles
+(3, 66) house copy: 0 outlier tiles
+(4, 0) player house: 0 outlier tiles
+(1, 1) Mt Moon 1: 0 outlier tiles
+(1, 2) Mt Moon 2: 0 outlier tiles
+(1, 3) Mt Moon B2F: 0 outlier tiles
+(2, 68) Hell: 0 outlier tiles
+(2, 80) Heaven: 0 outlier tiles
+(2, 79) Final camp: 0 outlier tiles
+(2, 81) (2,81): 0 outlier tiles
+(2, 60) : 0 outlier tiles
+(2, 64) : 0 outlier tiles
+(2, 69) : 0 outlier tiles
+(2, 70) : 0 outlier tiles
+(2, 71) : 0 outlier tiles
+(2, 72) : 0 outlier tiles
+(2, 73) : 0 outlier tiles
+(2, 74) : 0 outlier tiles
+(2, 75) : 0 outlier tiles
+(2, 76) : 0 outlier tiles
+(2, 77) : 0 outlier tiles
+(2, 78) : 0 outlier tiles
